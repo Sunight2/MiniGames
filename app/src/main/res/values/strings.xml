@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MiniGames</string>
+    <string name="app_name">Мини игры</string>
+    <string name="roc_paper_scissors">Камень ножницы бумага</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
